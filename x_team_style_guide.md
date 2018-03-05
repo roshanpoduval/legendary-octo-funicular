@@ -1,4 +1,4 @@
-# X001_14-Team NN Style Guide
+# Team 14 Style Guide
 
 <brief description of your team's opinion or philosophy regarding Style Guides>
 
