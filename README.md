@@ -4,8 +4,8 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * GitHub username 1: nickpeterson
-       * GitHub username 2: haypils
-       * GitHub username 3:
+       * GitHub username 2: 
+       * GitHub username 3: roshanpoduval
        * GitHub username 4:
        * GitHub username 5:
    * When did you complete this exercise? 
