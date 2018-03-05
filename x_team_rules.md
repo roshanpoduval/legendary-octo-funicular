@@ -1,4 +1,4 @@
-# X001_14-Team NN Rules
+# Team 14 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
