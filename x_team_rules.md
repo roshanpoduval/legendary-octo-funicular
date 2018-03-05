@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# 14-Team NN Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
